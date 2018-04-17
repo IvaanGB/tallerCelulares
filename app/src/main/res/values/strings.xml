@@ -1,0 +1,67 @@
+<resources>
+    <string name="app_name">tallerCelulares</string>
+    <string name="title_activity_reporte_2">Reporte_2</string>
+
+    <!--LV Principal-->
+    <string name="pRegistrar">Registrar</string>
+    <string name="pListar">Listar</string>
+    <string name="pReporte2">Reporte 2</string>
+    <string name="pReporte5">Reporte 5</string>
+    <string-array name="opciones">
+        <item>@string/pRegistrar</item>
+        <item>@string/pListar</item>
+        <item>@string/pReporte2</item>
+        <item>@string/pReporte5</item>
+    </string-array>
+
+    <!--TV-->
+    <string name="tVMarca">Marca</string>
+
+    <!--Marcas-->
+    <string name="marcas">Escoja una Marca</string>
+    <string name="mNokia" translatable="false">Nokia</string>
+    <string name="mApple" translatable="false">Apple</string>
+    <string name="mSamsung" translatable="false">Samsung</string>
+
+    <!--Spinner-->
+    <string-array name="spnMarcas">
+        <item>@string/marcas</item>
+        <item>@string/mNokia</item>
+        <item>@string/mApple</item>
+        <item>@string/mSamsung</item>
+    </string-array>
+
+    <!--Registrar-->
+    <string name="memoria">Memoria Ram</string>
+    <string name="ingreseMemoria">Almacenamiento de Ram</string>
+    <string name="colores">Escoja un Color</string>
+    <string name="cBlanco">Blanco</string>
+    <string name="cNegro">Negro</string>
+    <string name="cPlateado">Plateado</string>
+    <string name="precio">Precio</string>
+
+    <!--Registrado-->
+    <string name="ttlAlert">Registro Exitoso</string>
+    <string name="msjAlert">Celular Registrado Exitosamente!</string>
+
+    <string-array name="spnColores">
+        <item>@string/colores</item>
+        <item>@string/cBlanco</item>
+        <item>@string/cNegro</item>
+        <item>@string/cPlateado</item>
+    </string-array>
+
+    <!--errores-->
+    <string name="errorSpn">Escoja una opción válida</string>
+    <string name="errorPrecio">Ingrese un precio correcto</string>
+    <string name="errorRam">Ingrese una cantidad válida</string>
+
+    <!--Botones-->
+    <string name="btnGuargar">Guardar</string>
+    <string name="btnLimpiar">Limpiar</string>
+
+    <string name="numero" translatable="false">N°</string>
+    <string name="color">Color</string>
+    <string name="promNokia">Promedio Precio Nokia</string>
+
+</resources>

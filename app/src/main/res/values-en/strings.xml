@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">tallerCelulares</string>
+    <string name="title_activity_reporte_2">Report_2</string>
+    <string name="pRegistrar">Register</string>
+    <string name="pListar">List</string>
+    <string name="pReporte2">Report 2</string>
+    <string name="pReporte5">Report 5</string>
+    <string name="tVMarca">Brand</string>
+    <string name="marcas">Choose a brand</string>
+    <string name="memoria">Ram Memory</string>
+    <string name="ingreseMemoria">Ram storage</string>
+    <string name="colores">Choose a color</string>
+    <string name="cBlanco">White</string>
+    <string name="cNegro">Black</string>
+    <string name="cPlateado">Silver</string>
+    <string name="precio">Price</string>
+    <string name="ttlAlert">Successful registration</string>
+    <string name="msjAlert">Succesfully registered cel</string>
+    <string name="errorSpn">Choose a valid option</string>
+    <string name="errorPrecio">Type a correct price</string>
+    <string name="errorRam">Type a valid amount</string>
+    <string name="btnGuargar">Save</string>
+    <string name="btnLimpiar">Clear</string>
+    <string name="color">Color</string>
+    <string name="promNokia">Average Price nokia</string>
+</resources>
